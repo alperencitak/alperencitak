@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alperencitak/alperencitak/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/alperencitak/alperencitak/blob/output/snake.svg)
 
 ###
